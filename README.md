@@ -1,5 +1,5 @@
 # BlackScholesCalculator
-> The Yahoo! Finance API is [offline since 2017, you'll need to provide a new one.](https://stackoverflow.com/questions/44057580/yahoo-finance-api-changes-2017)
+> The Yahoo! Finance API is [offline since 2017](https://stackoverflow.com/questions/44057580/yahoo-finance-api-changes-2017), you'll need to provide a new one.
 
 A Java implementation of the Black-Scholes Option Pricing Model, using closing stock prices from Yahoo! Finance. Created while studying for [SOA Exam MFE](https://www.soa.org/education/exam-req/edu-exam-mfe-detail.aspx).
 
